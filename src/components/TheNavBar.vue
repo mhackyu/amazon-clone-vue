@@ -31,7 +31,7 @@
         </div>
       </router-link>
       <a
-        href="https://github.com/mhackyu/amazon-clone"
+        href="https://github.com/mhackyu/amazon-clone-vue"
         target="_blank"
         rel="noreferrer"
       >
